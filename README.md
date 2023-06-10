@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KPhii, a student from Germany
 - 👀 I’m interested in drawing, music, birds, maths,... All kinds of things!
-- 🌱 I’m currently learning C#
-- 🛠  Current Project(s): Textbased-RPG
+- 🌱 I’m currently learning Rust and Javascript
 - 📫 How to reach me;  Discord: KPhii#5487 
 
 <!---
